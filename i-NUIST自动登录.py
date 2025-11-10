@@ -192,8 +192,8 @@ def main():
         nuist = NuistLogin(
             username=username,
             password=password,
-            channel=channel, # 引用更新
-            ifautologin=ifautologin # 引用更新
+            channel=channel,
+            ifautologin=ifautologin
         )
 
         # 2. 自动获取IP地址
