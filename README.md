@@ -1,8 +1,5 @@
 # i-NUIST 南京信息工程大学校园网自动登录脚本
 
-> **Author**: [3355190239](https://github.com/3355190239)  
-> **Repository**: [https://github.com/3355190239/i-NUIST](https://github.com/3355190239/i-NUIST)
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![NUIST](https://img.shields.io/badge/School-NUIST-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-yellow.svg)
